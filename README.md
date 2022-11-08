@@ -2,5 +2,5 @@
 使用 python 爬台灣電商Autobuy
 
 python 要3.9以上 更低版本concurrent.futures 可能要自己改成 multiprocessing <br>
-使用到 urllib bs4 (mysql.connector) 要 pip install ooxx <br>
+使用第三方套件 urllib bs4 mysql.connector 
 live demo http://immargin.asuscomm.com/ <br>
